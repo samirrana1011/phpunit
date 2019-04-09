@@ -2,7 +2,7 @@
 language: php
 
 # Versions of PHP you want your project run with.
-php:
+  php:
   - 7.0
   
   before_script:
