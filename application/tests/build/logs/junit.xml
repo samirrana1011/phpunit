@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="EmailTest" file="C:\xampp\htdocs\plzgod1\application\tests\EmailTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.016001">
+    <testcase name="testAddNumber" class="EmailTest" file="C:\xampp\htdocs\plzgod1\application\tests\EmailTest.php" line="8" assertions="1" time="0.016001"/>
+  </testsuite>
+</testsuites>
