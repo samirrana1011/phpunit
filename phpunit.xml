@@ -16,7 +16,7 @@
          verbose="true">
 	  <testsuites>
         <testsuite name="Package Test Suite">
-            <directory suffix=".php">./tests</directory>
+            <directory suffix=".php">./application/tests</directory>
         </testsuite>
     </testsuites>
 </phpunit>
